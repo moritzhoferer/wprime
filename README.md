@@ -2,7 +2,7 @@
 
 This command-line tool helps you to determine your W'(w prime) and CP (critical power) values. These parameter can be helpful for your cycling training.
 
-To use the script, you have to synchronize you data with [intervals.icu](https://www.intervals.icu/). Then download you power curve data as csv [[Link to power data](https://intervals.icu/power)].
+To use the script, you have to synchronize you data with [intervals.icu](https://www.intervals.icu/). Then download you power curve data as csv [<a href="https://intervals.icu/power" target="_blank">Link to your power data</a>].
 
 ## Instructions
 
